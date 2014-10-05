@@ -52,3 +52,18 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# sublime
+*.sublime-*
+
+# client secret files
+*client*.json
+public_api_key
+
+# notes
+notes.txt
+
+# samples
+samples/
+
+# google-api-python-client/
+google-api-python-client/
